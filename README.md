@@ -18,3 +18,5 @@ Navigate into the directory you installed your project in and run.
 The correct run will be displayed like:
 
 ![image](https://github.com/Baljibeka/DiplomaProject/assets/87861742/e928592d-11fc-490c-9745-7476f8b68619)
+
+# 3. Find the notebook file to try to run the code without the framework in Jupyter or any other codespace
